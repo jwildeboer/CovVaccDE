@@ -1,0 +1,23 @@
+Bundesland;Impfungen kumulativ;Differenz zum Vortag;Indikation nach Alter;Berufliche Indikation;Medizinische Indikation;Pflegeheim-bewohnerIn
+Baden-Württemberg*;2.084;;624;964;151;
+Bayern;3.389;;994;1.051;68;1.620
+Berlin;1.626;;1.416;228;105;1.398
+Brandenburg;100;;80;20;;12
+Bremen*;420;;205;87;;
+Hamburg;445;;197;222;0;223
+Hessen;3.112;;1.086;1.694;154;1.347
+Mecklenburg-Vorpommern*;590;;;240;;350
+Niedersachsen;334;;42;116;140;306
+Nordrhein-Westfalen*;5.405;;;1.370;;3.985
+Rheinland-Pfalz*;1.252;;;620;;632
+Saarland;215;;168;4;;211
+Sachsen;182;;90;69;0;113
+Sachsen-Anhalt**;1.504;1.357;669;644;0;847
+Schleswig-Holstein;809;;213;239;344;553
+Thüringen;99;;49;50;;49
+Gesamt;21.566;1.357;5.833;7.618;962;11.646
+;;;;;;
+* in einigen Bundesländern werden nicht alle der in der Tabelle aufgeführten Indikationen einzeln ausgewiesen;;;;;;
+** In Sachsen-Anhalt wurde bereits am 26.12.2020 mit den Impfungen begonnen.;;;;;;
+;;;;;;
+Anmerkung zu den Indikationen: es können mehrere Indikationen je geimpfter Person vorliegen ;;;;;;

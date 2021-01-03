@@ -1,0 +1,21 @@
+Bundesland;Impfungen kumulativ;Differenz zum Vortag;Indikation nach Alter*;Berufliche Indikation*;Medizinische Indikation*;Pflegeheim-bewohnerIn*
+Baden-Württemberg;8.242;3.509;3.243;2.994;517;933
+Bayern;12.935;7.716;3.010;5.573;214;5314
+Berlin;6.296;2.457;4.918;1.396;105;4899
+Brandenburg;1.553;1.442;110;1.430;13;123
+Bremen;1.059;467;528;201;3;579
+Hamburg;1.499;428;704;661;0;839
+Hessen;9.448;5.094;3.041;5.092;500;3825
+Mecklenburg-Vorpommern;7.338;3.711;87;4.011;4;3231
+Niedersachsen;1.527;692;83;824;145;794
+Nordrhein-Westfalen;11.385;3.857;0;2.771;0;8622
+Rheinland-Pfalz;2.284;822;0;1.011;0;1273
+Saarland;1.518;656;1.177;101;0;711
+Sachsen;1.487;812;150;1.294;1;192
+Sachsen-Anhalt;7.287;3.302;2.620;3.209;262;3942
+Schleswig-Holstein;3.579;1.893;1.016;1.858;871;1698
+Thüringen;672;415;226;252;0;327
+Gesamt;78.109;37.273;20.913;32.678;2.635;37302
+;;;;;;
+Anmerkung zu den Indikationen: Es können mehrere Indikationen je geimpfter Person vorliegen.;;;;;;
+* In einigen Bundesländern werden nicht alle der in der Tabelle aufgeführten Indikationen einzeln ausgewiesen.;;;;;;
